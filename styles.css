@@ -1,0 +1,12 @@
+.container {
+    background-color: black;
+    width: 1000px; 
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+
+#change-grid {
+    padding: 15px 32px;
+    margin-bottom: 50px;
+}
